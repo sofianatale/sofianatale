@@ -21,31 +21,31 @@ Currently exploring how **machine learning** and **genomic technologies** can be
  
 ## 💻 Technical Skills  
 
-### 🧠 Programming & Computational Tools  
+### Programming & Computational Tools  
 - **Languages:** Python, R, Bash/Linux  
 - **Core Packages:** NumPy, Pandas, Matplotlib, scikit-learn, Biopython  
 - **Reproducibility & Workflow:** Git/GitHub, Conda, shell scripting, Markdown documentation  
 
-### 🧬 Bioinformatics & Genomics  
+### Bioinformatics & Genomics  
 - **Sequence & Structural Analysis:** HMMER, CD-HIT, BLAST+, PDBeFold, ChimeraX  
 - **NGS & Functional Genomics:** BWA, STAR, RepeatMasker, InterProScan  
 - **Epigenomics:** minfi, methylKit  
 - **Annotation & Comparative Genomics:** BUSCO, OrthoFinder  
 
-### 🤖 Machine Learning & Data Analysis  
+### Machine Learning & Data Analysis  
 - **Tasks:** Feature extraction, classification, model validation, dimensionality reduction  
 - **Methods:** SVM, Random Forest, Logistic Regression, PCA, hierarchical clustering  
 - **Metrics:** MCC, ROC/AUC, threshold optimization  
 
-### 🧩 Systems & Network Biology  
+### Systems & Network Biology  
 - **Network Analysis & Pathways:** Cytoscape, STRING, NetworkX, KEGG, Reactome  
 - **Modeling:** Differential equations and dynamic system representation  
 
-### ⚙️ Computational Practices  
+### Computational Practices  
 - **HPC & Pipelines:** Job scheduling, modular workflows, automation of multi-step analyses  
 - **Visualization & Reporting:** Scientific figures, reproducible outputs, data storytelling  
 
-### 🧪 Experimental Background  
+### 0Experimental Background  
 - Solid foundation in **molecular and cellular biology**  
 - Experience with **Western Blot**, **protein assays**, **immunofluorescence** and **microscopy**
 
