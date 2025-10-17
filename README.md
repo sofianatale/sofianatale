@@ -38,7 +38,7 @@ Currently exploring how **machine learning** and **genomic technologies** can be
 - **Metrics:** MCC, ROC/AUC, threshold optimization  
 
 ### Systems & Network Biology  
-- **Network Analysis & Pathways:** Cytoscape, STRING, NetworkX, KEGG, Reactome  
+- **Network Analysis & Pathways:** Cytoscape, STRING, KEGG, Reactome  
 - **Modeling:** Differential equations and dynamic system representation  
 
 ### Computational Practices  
