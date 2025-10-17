@@ -48,5 +48,6 @@ A methylation-analysis pipeline in R for Illumina 450K data: preprocessing, QC, 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sofianatale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-natale-082579347)
+[![Email](https://img.shields.io/badge/Email-sofianatale06%40gmail.com-8A2BE2?logo=gmail&logoColor=white)](mailto:sofianatale06@gmail.com)
 
 </div>
