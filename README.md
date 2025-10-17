@@ -1,4 +1,4 @@
-# Hi there, I’m **Sofia**  
+# Hi there, I’m **Sofia** ✨
 
 🎓 *MSc Student in Bioinformatics at University of Bologna*  
 🧬 *BSc in Biological Sciences at University of Ferrara*  
@@ -45,7 +45,7 @@ Currently exploring how **machine learning** and **genomic technologies** can be
 - **HPC & Pipelines:** Job scheduling, modular workflows, automation of multi-step analyses  
 - **Visualization & Reporting:** Scientific figures, reproducible outputs, data storytelling  
 
-### 0Experimental Background  
+### Experimental Background  
 - Solid foundation in **molecular and cellular biology**  
 - Experience with **Western Blot**, **protein assays**, **immunofluorescence** and **microscopy**
 
