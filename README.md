@@ -1,7 +1,7 @@
 # Hi there, I’m **Sofia** ✨
 
-🎓 *MSc Student in Bioinformatics at University of Bologna*  
-🧬 *BSc in Biological Sciences at University of Ferrara*  
+👩🏻‍💻 *MSc Student in Bioinformatics at University of Bologna*  
+🎓 *BSc in Biological Sciences at University of Ferrara*  
 
 ## 💡 About Me  
 
