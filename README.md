@@ -22,7 +22,7 @@ Currently exploring how **machine learning** and **genomic technologies** can be
 ## 💻 Technical Skills  
 - **Programming & Tools:** Python, R, Bash/Linux, Git/GitHub, Conda
 - **Libraries:** NumPy, Pandas, Matplotlib, scikit-learn, Biopython
-- **Bioinformatics:** HMMER, BLAST+, CD-HIT, STAR, BWA, RepeatMasker, InterProScan
+- **Bioinformatics:** HMMER, BLAST+, CD-HIT, InterProScan
 - **Epigenomics:** minfi, methylKit
 - **Machine Learning:** SVM, Random Forest, Logistic Regression, PCA, MCC, ROC/AUC
 - **Systems Biology:** Cytoscape, STRING, KEGG, Reactome
