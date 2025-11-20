@@ -42,6 +42,10 @@ A comprehensive **multi-omics study** on the Alpine marmot (*Marmota marmota*), 
 ### [DNARNA_Group4](https://github.com/sofianatale/DNARNA_Group4)
 A methylation-analysis pipeline in R for Illumina 450K data: preprocessing, QC, normalization, PCA, and DMP detection between control and disease.
 
+### [LB2_project_Group_5](https://github.com/sofianatale/LB2_project_Group_5)
+This project compares computational methods for predicting eukaryotic secretory signal peptides, evaluating traditional statistical, SVM-based and ESM-2 deep learning approaches. The goal is to benchmark their performance on curated protein sequences using cross-validation and a blind test set.
+
+
 ## 🌐 Connect with Me  
 
 <div align="center">
