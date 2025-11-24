@@ -39,8 +39,7 @@ This project compares computational methods for **predicting eukaryotic secretor
 ### [Laboratory of Bioinformatics 1 project](https://github.com/sofianatale/LAB1_project)
 Design of a **structure-guided Hidden Markov Model** for the **Kunitz-type protease inhibitor domain**, integrating **PDBeFold alignments**, **redundancy reduction (CD-HIT)**, and **binary cross-validation** with HMMER.
 
-
-### [DNA/RNA dynamics project Group4](https://github.com/sofianatale/DNARNA_Group4)
+### [DNA/RNA dynamics project Group 4](https://github.com/sofianatale/DNARNA_Group4)
 A **methylation-analysis pipeline** in R for Illumina 450K data: preprocessing, QC, normalization, PCA, and DMP detection between control and disease.
 
 ### [Applied Genomics](https://github.com/sofianatale/Applied_Genomics)
