@@ -31,20 +31,20 @@ Currently exploring how **machine learning** and **genomic technologies** can be
 
 ---
 
-## 📂 Projects  
+## 📂 Projects 
 
-### [LAB1_project](https://github.com/sofianatale/LAB1_project)
+### [Laboratory of Bioinformatics 2 project Group 5](https://github.com/sofianatale/LB2_project_Group_5)
+This project compares computational methods for **predicting eukaryotic secretory signal peptides**, evaluating traditional statistical, SVM-based and ESM-2 deep learning approaches. The goal is to benchmark their performance on curated protein sequences using cross-validation and a blind test set.
+
+### [Laboratory of Bioinformatics 1 project](https://github.com/sofianatale/LAB1_project)
 Design of a **structure-guided Hidden Markov Model** for the **Kunitz-type protease inhibitor domain**, integrating **PDBeFold alignments**, **redundancy reduction (CD-HIT)**, and **binary cross-validation** with HMMER.
 
-### [Applied_Genomics](https://github.com/sofianatale/Applied_Genomics)
-A comprehensive **multi-omics study** on the Alpine marmot (*Marmota marmota*), integrating **genomic, transcriptomic, and epigenomic** layers to explore **environmental adaptation mechanisms**.
 
-### [DNARNA_Group4](https://github.com/sofianatale/DNARNA_Group4)
+### [DNA/RNA dynamics project Group4](https://github.com/sofianatale/DNARNA_Group4)
 A methylation-analysis pipeline in R for Illumina 450K data: preprocessing, QC, normalization, PCA, and DMP detection between control and disease.
 
-### [LB2_project_Group_5](https://github.com/sofianatale/LB2_project_Group_5)
-This project compares computational methods for predicting eukaryotic secretory signal peptides, evaluating traditional statistical, SVM-based and ESM-2 deep learning approaches. The goal is to benchmark their performance on curated protein sequences using cross-validation and a blind test set.
-
+### [Applied Genomics](https://github.com/sofianatale/Applied_Genomics)
+A comprehensive **multi-omics study** on the Alpine marmot (*Marmota marmota*), integrating **genomic, transcriptomic, and epigenomic** layers to explore **environmental adaptation mechanisms**.
 
 ## 🌐 Connect with Me  
 
