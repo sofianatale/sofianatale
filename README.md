@@ -41,7 +41,7 @@ Design of a **structure-guided Hidden Markov Model** for the **Kunitz-type prote
 
 
 ### [DNA/RNA dynamics project Group4](https://github.com/sofianatale/DNARNA_Group4)
-A methylation-analysis pipeline in R for Illumina 450K data: preprocessing, QC, normalization, PCA, and DMP detection between control and disease.
+A **methylation-analysis pipeline** in R for Illumina 450K data: preprocessing, QC, normalization, PCA, and DMP detection between control and disease.
 
 ### [Applied Genomics](https://github.com/sofianatale/Applied_Genomics)
 A comprehensive **multi-omics study** on the Alpine marmot (*Marmota marmota*), integrating **genomic, transcriptomic, and epigenomic** layers to explore **environmental adaptation mechanisms**.
