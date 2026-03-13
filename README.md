@@ -45,6 +45,9 @@ A **methylation-analysis pipeline** in R for Illumina 450K data: preprocessing, 
 ### [Applied Genomics](https://github.com/sofianatale/Applied_Genomics)
 A comprehensive **multi-omics study** on the Alpine marmot (*Marmota marmota*), integrating **genomic, transcriptomic, and epigenomic** layers to explore **environmental adaptation mechanisms**.
 
+### [Heart Disease Prediction: Machine Learning project](https://github.com/sofianatale/HeartDisease_ML)
+Machine learning project for predicting cardiovascular disease using clinical data, implementing a full pipeline from data preprocessing to model training and evaluation.
+
 ## 🌐 Connect with Me  
 
 <div align="center">
