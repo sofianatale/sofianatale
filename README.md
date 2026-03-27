@@ -42,11 +42,12 @@ Design of a **structure-guided Hidden Markov Model** for the **Kunitz-type prote
 ### [DNA/RNA dynamics project Group 4](https://github.com/sofianatale/DNARNA_Group4)
 A **methylation-analysis pipeline** in R for Illumina 450K data: preprocessing, QC, normalization, PCA, and DMP detection between control and disease.
 
+### [Heart Disease Prediction: Machine Learning project](https://github.com/sofianatale/HeartDisease_ML)
+Machine learning project for predicting cardiovascular disease using clinical data, implementing a full pipeline from data preprocessing to model training and evaluation.
+
 ### [Applied Genomics](https://github.com/sofianatale/Applied_Genomics)
 A comprehensive **multi-omics study** on the Alpine marmot (*Marmota marmota*), integrating **genomic, transcriptomic, and epigenomic** layers to explore **environmental adaptation mechanisms**.
 
-### [Heart Disease Prediction: Machine Learning project](https://github.com/sofianatale/HeartDisease_ML)
-Machine learning project for predicting cardiovascular disease using clinical data, implementing a full pipeline from data preprocessing to model training and evaluation.
 
 ## 🌐 Connect with Me  
 
